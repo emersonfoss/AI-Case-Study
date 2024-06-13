@@ -9,7 +9,7 @@
 - **Origin**: 
   - The idea for CaseTEXT came from the founders' desire to leverage technology to make legal research more efficient and accessible. As legal professionals, they recognized the challenges and inefficiencies in traditional legal research methods and sought to create a platform that could streamline the process using advanced technology.
 - **Funding**: 
-  - CaseTEXT has raised over $64 million in funding from various investors, including Union Square Ventures, Canvas Ventures, and Red Sea Ventures.
+  - CaseTEXT has raised over $64 million in funding from various investors, including [Union Square Ventures](https://www.usv.com), Canvas Ventures, and Red Sea Ventures.
 
 ## Business Activities
 
@@ -48,4 +48,9 @@
   - Cloud computing, AI, machine learning, and data analytics to provide more automated and efficient client management solutions.
 - **Appropriateness of Technologies**: 
   - These technologies enhance functionality, scalability, and efficiency. Cloud computing enables seamless access and collaboration, AI and machine learning improve accuracy and automation, and data analytics provide valuable insights for better decision-making and performance tracking.
-```
+
+> "The idea for CaseTEXT came from the founders' desire to leverage technology to make legal research more efficient and accessible."
+
+---
+
+For more information, visit the [CaseTEXT website](https://www.casetext.com).
